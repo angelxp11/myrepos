@@ -5,7 +5,7 @@ import java.sql.SQLException;
 public class DatabaseConnection {
     private static final String URL = "idk";
     private static final String USER = "idk";
-    private static final String PASSWORD = "idk";
+    private static final String PASSWORD = "idks";
     private Connection connection;
 
     public Connection connect() {
